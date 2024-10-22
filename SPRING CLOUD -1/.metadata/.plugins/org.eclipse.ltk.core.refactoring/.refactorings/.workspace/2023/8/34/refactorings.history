@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;dragon-ball-microservice-1&apos; to &apos;dragon-ball-eureka-server&apos;" description="Rename resource &apos;dragon-ball-microservice-1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/dragon-ball-microservice-1" name="dragon-ball-eureka-server" stamp="1692588118301" updateReferences="true"/>
-</session>
